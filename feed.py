@@ -9,7 +9,7 @@ import hashlib
 import shutil
 
 # --- НАСТРОЙКИ ---
-OUTPUT_DIR = "output_paomma_price"
+OUTPUT_DIR = "output"
 PROGRESS_FILE = os.path.join(OUTPUT_DIR, "progress.json")
 YML_FILE = os.path.join(OUTPUT_DIR, "paomma_catalog_price.xml")
 TEMP_YML_FILE = YML_FILE + ".tmp"
