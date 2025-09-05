@@ -9,10 +9,10 @@ import hashlib
 import shutil
 
 # --- НАСТРОЙКИ ---
-OUTPUT_DIR = "output"
+OUTPUT_DIR = "output_paomma_price"
 PROGRESS_FILE = os.path.join(OUTPUT_DIR, "progress.json")
-YML_FILE = os.path.join(OUTPUT_DIR, "paomma_catalog.xml")
-TEMP_YML_FILE = YML_FILE + ".tmp"  # Для атомарной записи
+YML_FILE = os.path.join(OUTPUT_DIR, "paomma_catalog_price.xml")
+TEMP_YML_FILE = YML_FILE + ".tmp"
 
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
@@ -183,6 +183,11 @@ def parse_product_page(page, url):
                 data.material = materialBtn ? materialBtn.value.trim() : '';
                 const descEl = document.querySelector('.t-text, .t-store__t-product__desc');
                 data.description = descEl ? descEl.innerText.trim() : '';
+
+                // --- ПАРСИНГ ЦЕНЫ СО СТРАНИЦЫ ТОВАРА ---
+                const priceEl = document.querySelector('.t762__price-value.js-store-prod-price-val');
+                data.price = priceEl ? priceEl.getAttribute('data-product-price-def') || priceEl.innerText.replace(/[^\\d]/g, '') : '0';
+
                 data.additional_images = Array.from(document.querySelectorAll('.t-slds__item img'))
                     .map(img => img.src || img.dataset.original || '').filter(src => src && src.endsWith('.jpg'));
                 return data;
@@ -279,7 +284,7 @@ def parse_product_page(page, url):
                 log(f"⚠️ Пропущен: {url} — нет названия")
                 return None
 
-            log(f"✅ Успешно: {result['name']} | Арт: {result['vendorCode']} | Цвет: {result['color']}")
+            log(f"✅ Успешно: {result['name']} | Арт: {result['vendorCode']} | Цена: {result['price']} ₽ | Цвет: {result['color']}")
             return result
 
         except Exception as e:
@@ -327,7 +332,6 @@ def parse_catalog_page(page):
                     const skuEl = card.querySelector('.js-store-prod-sku, .t-store__card__sku');
                     const linkEl = card.querySelector('a');
                     const imgEl = card.querySelector('.js-product-img, img');
-                    const priceEl = card.querySelector('.t-store__card__price-value, .price');
 
                     if (!nameEl || !linkEl) continue;
 
@@ -353,7 +357,37 @@ def parse_catalog_page(page):
                     let vendorCode = skuEl ? skuEl.innerText.replace(/Артикул[:\\s]*/i, '').trim() : '';
                     const link = linkEl.href.trim();
                     const image = imgEl ? (imgEl.dataset.original || imgEl.src || '') : '';
-                    const price = priceEl ? priceEl.innerText.replace(/[^\\d]/g, '') : '0';
+
+                    // --- ПАРСИНГ ЦЕНЫ: приоритет — data-product-price-def ---
+                    let price = '0';
+                    const priceValEl = card.querySelector('.js-product-price.js-store-prod-price-val');
+                    if (priceValEl) {
+                        // Пытаемся получить из data-атрибута
+                        const dataPrice = priceValEl.getAttribute('data-product-price-def');
+                        if (dataPrice && dataPrice !== '0') {
+                            price = dataPrice;
+                        } else {
+                            // Если data нет — пробуем текст
+                            const text = priceValEl.innerText.trim();
+                            const match = text.match(/\\d+/);
+                            if (match) price = match[0];
+                        }
+                    }
+
+                    // Если цена всё ещё 0 — пробуем парсить из <strong> от 465 ₽
+                    if (price === '0') {
+                        const descrEl = card.querySelector('.js-store-prod-descr');
+                        if (descrEl) {
+                            const strongEl = descrEl.querySelector('strong');
+                            if (strongEl) {
+                                const text = strongEl.innerText.trim();
+                                const match = text.match(/\\d+/);
+                                if (match) {
+                                    price = match[0];
+                                }
+                            }
+                        }
+                    }
 
                     // --- ФИЛЬТР ДУБЛЕЙ И ЯКОРЕЙ ---
                     if (!link || 
@@ -561,13 +595,21 @@ def generate_yml(products):
 
             used_ids.add(unique_id)
 
+            # --- ПРОВЕРКА ЦЕНЫ ---
+            try:
+                price_val = int(prod.get('price', '0').strip())
+                if price_val <= 0:
+                    price_val = 1
+            except (ValueError, TypeError):
+                price_val = 1
+
             offer = [
                 f'      <offer id="{unique_id}" available="true">',
                 f'        <name>{prod["name"]}</name>',
                 f'        <vendor>Paomma</vendor>',
                 f'        <vendorCode>{prod["vendorCode"]}</vendorCode>',
                 f'        <model>{prod["vendorCode"]}</model>',
-                f'        <price>0</price>',
+                f'        <price>{price_val}</price>',
                 f'        <currencyId>RUB</currencyId>',
                 f'        <categoryId>{category_id}</categoryId>'
             ]
@@ -725,12 +767,12 @@ if __name__ == "__main__":
                 if full_data:
                     full_data.update({
                         'name': item['name'],
-                        'price': item['price'] or full_data.get('price', '0'),
+                        'price': item['price'] or full_data.get('price', '0'),  # ← Приоритет: цена из каталога
                         'link': item['link'],
                         'image': item['image'] or full_data.get('image', ''),
                         'collection': item.get('collection'),
                         'volume': item.get('volume') or full_data.get('volume', '')
-                    })
+                    })                    
                     all_products.append(full_data)
                     save_progress(all_products)
                 time.sleep(random.uniform(1.0, 2.5))
@@ -745,4 +787,4 @@ if __name__ == "__main__":
             browser.close()
             log("✅ Браузер закрыт.")
 
-    log("✅ Готово! Проверьте папку 'output'.")
+    log("✅ Готово! Проверьте папку 'output_paomma'.")
