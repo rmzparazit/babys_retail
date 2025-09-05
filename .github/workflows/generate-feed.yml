@@ -47,7 +47,7 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
           # Проверяем, изменился ли фид
-          if git diff --quiet output/paomma_catalog.xml; then
+          if git diff --quiet output/paomma_catalog_price.xml; then
             echo "ℹ️ Фид не изменился — коммит не нужен"
             exit 0
           fi
