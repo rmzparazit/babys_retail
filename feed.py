@@ -787,4 +787,4 @@ if __name__ == "__main__":
             browser.close()
             log("✅ Браузер закрыт.")
 
-    log("✅ Готово! Проверьте папку 'output_paomma'.")
+    log("✅ Готово! Проверьте папку 'output'.")
