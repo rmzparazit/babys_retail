@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2025-09-05 22:03">
+<yml_catalog date="2025-09-05 22:37">
   <shop>
     <name>Paomma</name>
     <company>Paomma</company>
@@ -25,7 +25,7 @@
         <vendor>Paomma</vendor>
         <vendorCode>PDB114</vendorCode>
         <model>PDB114</model>
-        <price>0</price>
+        <price>1</price>
         <currencyId>RUB</currencyId>
         <categoryId>952113747654</categoryId>
         <url><![CDATA[https://paomma.ru/catalog/poilniki/tproduct/446814075272-poilnik-zephyr]]></url>
@@ -44,7 +44,7 @@
         <vendor>Paomma</vendor>
         <vendorCode>PDB107</vendorCode>
         <model>PDB107</model>
-        <price>0</price>
+        <price>1</price>
         <currencyId>RUB</currencyId>
         <categoryId>952113747654</categoryId>
         <url><![CDATA[https://paomma.ru/catalog/poilniki/tproduct/954531354852-poilnik-sage]]></url>
@@ -63,7 +63,7 @@
         <vendor>Paomma</vendor>
         <vendorCode>PDB104</vendorCode>
         <model>PDB104</model>
-        <price>0</price>
+        <price>1</price>
         <currencyId>RUB</currencyId>
         <categoryId>952113747654</categoryId>
         <url><![CDATA[https://paomma.ru/catalog/poilniki/tproduct/137553898672-poilnik-light-grey]]></url>
@@ -82,7 +82,7 @@
         <vendor>Paomma</vendor>
         <vendorCode>PDB104</vendorCode>
         <model>PDB104</model>
-        <price>0</price>
+        <price>1</price>
         <currencyId>RUB</currencyId>
         <categoryId>952113747654</categoryId>
         <url><![CDATA[https://paomma.ru/catalog/poilniki/tproduct/905758392282-poilnik-taupe]]></url>
@@ -101,7 +101,7 @@
         <vendor>Paomma</vendor>
         <vendorCode>PT104</vendorCode>
         <model>PT104</model>
-        <price>0</price>
+        <price>1</price>
         <currencyId>RUB</currencyId>
         <categoryId>206682998845</categoryId>
         <url><![CDATA[https://paomma.ru/catalog/prorezyvateli/tproduct/673104930012-prorezivatel-zephyr]]></url>
@@ -119,7 +119,7 @@
         <vendor>Paomma</vendor>
         <vendorCode>PT104</vendorCode>
         <model>PT104</model>
-        <price>0</price>
+        <price>1</price>
         <currencyId>RUB</currencyId>
         <categoryId>206682998845</categoryId>
         <url><![CDATA[https://paomma.ru/catalog/prorezyvateli/tproduct/332946794622-prorezivatel-loshadka-taupe]]></url>
@@ -137,7 +137,7 @@
         <vendor>Paomma</vendor>
         <vendorCode>PT104</vendorCode>
         <model>PT104</model>
-        <price>0</price>
+        <price>1</price>
         <currencyId>RUB</currencyId>
         <categoryId>206682998845</categoryId>
         <url><![CDATA[https://paomma.ru/catalog/prorezyvateli/tproduct/102213857602-prorezivatel-loshadka-almond-milk]]></url>
@@ -154,7 +154,7 @@
         <vendor>Paomma</vendor>
         <vendorCode>PN00M</vendorCode>
         <model>PN00M</model>
-        <price>0</price>
+        <price>1</price>
         <currencyId>RUB</currencyId>
         <categoryId>169064286158</categoryId>
         <url><![CDATA[https://paomma.ru/catalog/antikolikovye-soski/tproduct/138723619222-soska-na-butilochku-mom-effect-srednii-p]]></url>
@@ -171,7 +171,7 @@
         <vendor>Paomma</vendor>
         <vendorCode>PN00L</vendorCode>
         <model>PN00L</model>
-        <price>0</price>
+        <price>1</price>
         <currencyId>RUB</currencyId>
         <categoryId>169064286158</categoryId>
         <url><![CDATA[https://paomma.ru/catalog/antikolikovye-soski/tproduct/676081451632-soska-na-butilochku-mom-effect-bistrii-p]]></url>
@@ -188,7 +188,7 @@
         <vendor>Paomma</vendor>
         <vendorCode>PN00S</vendorCode>
         <model>PN00S</model>
-        <price>0</price>
+        <price>1</price>
         <currencyId>RUB</currencyId>
         <categoryId>169064286158</categoryId>
         <url><![CDATA[https://paomma.ru/catalog/antikolikovye-soski/tproduct/238357685202-soska-na-butilochku-mom-effect-medlennii]]></url>
@@ -205,7 +205,7 @@
         <vendor>Paomma</vendor>
         <vendorCode>PN00CH</vendorCode>
         <model>PN00CH</model>
-        <price>0</price>
+        <price>1</price>
         <currencyId>RUB</currencyId>
         <categoryId>169064286158</categoryId>
         <url><![CDATA[https://paomma.ru/catalog/antikolikovye-soski/tproduct/215762888002-soska-na-butilochku-mom-effect-dlya-zhid]]></url>
@@ -222,7 +222,7 @@
         <vendor>Paomma</vendor>
         <vendorCode>PPL11215</vendorCode>
         <model>PPL11215</model>
-        <price>0</price>
+        <price>1</price>
         <currencyId>RUB</currencyId>
         <categoryId>876147046474</categoryId>
         <url><![CDATA[https://paomma.ru/catalog/pustyshki/tproduct/921280120622-nabor-lateksnaya-pustishek-buttercreamli]]></url>
@@ -241,7 +241,7 @@
         <vendor>Paomma</vendor>
         <vendorCode>PPL11214</vendorCode>
         <model>PPL11214</model>
-        <price>0</price>
+        <price>1</price>
         <currencyId>RUB</currencyId>
         <categoryId>876147046474</categoryId>
         <url><![CDATA[https://paomma.ru/catalog/pustyshki/tproduct/878969489192-nabor-lateksnaya-pustishek-buttercreamze]]></url>
@@ -260,7 +260,7 @@
         <vendor>Paomma</vendor>
         <vendorCode>PPL11207</vendorCode>
         <model>PPL11207</model>
-        <price>0</price>
+        <price>1</price>
         <currencyId>RUB</currencyId>
         <categoryId>876147046474</categoryId>
         <url><![CDATA[https://paomma.ru/catalog/pustyshki/tproduct/525536020742-nabor-lateksnaya-pustishek-buttercreamsa]]></url>
@@ -279,7 +279,7 @@
         <vendor>Paomma</vendor>
         <vendorCode>PPL221</vendorCode>
         <model>PPL221</model>
-        <price>0</price>
+        <price>1</price>
         <currencyId>RUB</currencyId>
         <categoryId>897379413064</categoryId>
         <url><![CDATA[https://paomma.ru/catalog/pustyshki/tproduct/997547527452-pustishka-lateksnaya-mushroom]]></url>
@@ -298,7 +298,7 @@
         <vendor>Paomma</vendor>
         <vendorCode>PPL121</vendorCode>
         <model>PPL121</model>
-        <price>0</price>
+        <price>1</price>
         <currencyId>RUB</currencyId>
         <categoryId>897379413064</categoryId>
         <url><![CDATA[https://paomma.ru/catalog/pustyshki/tproduct/961343887952-pustishka-lateksnaya-mushroom]]></url>
@@ -317,7 +317,7 @@
         <vendor>Paomma</vendor>
         <vendorCode>PPS12112</vendorCode>
         <model>PPS12112</model>
-        <price>0</price>
+        <price>1</price>
         <currencyId>RUB</currencyId>
         <categoryId>876147046474</categoryId>
         <url><![CDATA[https://paomma.ru/catalog/pustyshki/tproduct/943395059022-nabor-silikonovih-pustishek-mushroomalmo]]></url>
@@ -335,7 +335,7 @@
         <vendor>Paomma</vendor>
         <vendorCode>PPS22112</vendorCode>
         <model>PPS22112</model>
-        <price>0</price>
+        <price>1</price>
         <currencyId>RUB</currencyId>
         <categoryId>876147046474</categoryId>
         <url><![CDATA[https://paomma.ru/catalog/pustyshki/tproduct/213716203632-nabor-silikonovih-pustishek-mushroomalmo]]></url>
@@ -354,7 +354,7 @@
         <vendor>Paomma</vendor>
         <vendorCode>PPL316</vendorCode>
         <model>PPL316</model>
-        <price>0</price>
+        <price>1</price>
         <currencyId>RUB</currencyId>
         <categoryId>897379413064</categoryId>
         <url><![CDATA[https://paomma.ru/catalog/pustyshki/tproduct/989607713972-pustishka-lateksnaya-hazelnut]]></url>
@@ -373,7 +373,7 @@
         <vendor>Paomma</vendor>
         <vendorCode>PPL216</vendorCode>
         <model>PPL216</model>
-        <price>0</price>
+        <price>1</price>
         <currencyId>RUB</currencyId>
         <categoryId>897379413064</categoryId>
         <url><![CDATA[https://paomma.ru/catalog/pustyshki/tproduct/804334575132-pustishka-lateksnaya-hazelnut]]></url>
@@ -392,7 +392,7 @@
         <vendor>Paomma</vendor>
         <vendorCode>PPL316</vendorCode>
         <model>PPL316</model>
-        <price>0</price>
+        <price>1</price>
         <currencyId>RUB</currencyId>
         <categoryId>897379413064</categoryId>
         <url><![CDATA[https://paomma.ru/catalog/pustyshki/tproduct/660911637722-pustishka-lateksnaya-hazelnut]]></url>
@@ -411,7 +411,7 @@
         <vendor>Paomma</vendor>
         <vendorCode>PPL315</vendorCode>
         <model>PPL315</model>
-        <price>0</price>
+        <price>1</price>
         <currencyId>RUB</currencyId>
         <categoryId>897379413064</categoryId>
         <url><![CDATA[https://paomma.ru/catalog/pustyshki/tproduct/149464569042-pustishka-lateksnaya-light-grey]]></url>
@@ -430,7 +430,7 @@
         <vendor>Paomma</vendor>
         <vendorCode>PPL215</vendorCode>
         <model>PPL215</model>
-        <price>0</price>
+        <price>1</price>
         <currencyId>RUB</currencyId>
         <categoryId>897379413064</categoryId>
         <url><![CDATA[https://paomma.ru/catalog/pustyshki/tproduct/788816411552-pustishka-lateksnaya-light-grey]]></url>
@@ -449,7 +449,7 @@
         <vendor>Paomma</vendor>
         <vendorCode>PPL115</vendorCode>
         <model>PPL115</model>
-        <price>0</price>
+        <price>1</price>
         <currencyId>RUB</currencyId>
         <categoryId>897379413064</categoryId>
         <url><![CDATA[https://paomma.ru/catalog/pustyshki/tproduct/374766577732-pustishka-lateksnaya-light-grey]]></url>
@@ -468,7 +468,7 @@
         <vendor>Paomma</vendor>
         <vendorCode>PPL312</vendorCode>
         <model>PPL312</model>
-        <price>0</price>
+        <price>1</price>
         <currencyId>RUB</currencyId>
         <categoryId>897379413064</categoryId>
         <url><![CDATA[https://paomma.ru/catalog/pustyshki/tproduct/647426828192-pustishka-lateksnaya-buttercream]]></url>
@@ -485,7 +485,7 @@
         <vendor>Paomma</vendor>
         <vendorCode>PPL212</vendorCode>
         <model>PPL212</model>
-        <price>0</price>
+        <price>1</price>
         <currencyId>RUB</currencyId>
         <categoryId>897379413064</categoryId>
         <url><![CDATA[https://paomma.ru/catalog/pustyshki/tproduct/483233768842-pustishka-lateksnaya-buttercream]]></url>
@@ -504,7 +504,7 @@
         <vendor>Paomma</vendor>
         <vendorCode>PPL112</vendorCode>
         <model>PPL112</model>
-        <price>0</price>
+        <price>1</price>
         <currencyId>RUB</currencyId>
         <categoryId>897379413064</categoryId>
         <url><![CDATA[https://paomma.ru/catalog/pustyshki/tproduct/733157193052-pustishka-lateksnaya-buttercream]]></url>
@@ -523,7 +523,7 @@
         <vendor>Paomma</vendor>
         <vendorCode>PPL214</vendorCode>
         <model>PPL214</model>
-        <price>0</price>
+        <price>1</price>
         <currencyId>RUB</currencyId>
         <categoryId>897379413064</categoryId>
         <url><![CDATA[https://paomma.ru/catalog/pustyshki/tproduct/289177421532-pustishka-lateksnaya-taupe]]></url>
@@ -542,7 +542,7 @@
         <vendor>Paomma</vendor>
         <vendorCode>PPL114</vendorCode>
         <model>PPL114</model>
-        <price>0</price>
+        <price>1</price>
         <currencyId>RUB</currencyId>
         <categoryId>897379413064</categoryId>
         <url><![CDATA[https://paomma.ru/catalog/pustyshki/tproduct/672804792162-pustishka-lateksnaya-taupe]]></url>
@@ -561,7 +561,7 @@
         <vendor>Paomma</vendor>
         <vendorCode>PPL213</vendorCode>
         <model>PPL213</model>
-        <price>0</price>
+        <price>1</price>
         <currencyId>RUB</currencyId>
         <categoryId>897379413064</categoryId>
         <url><![CDATA[https://paomma.ru/catalog/pustyshki/tproduct/488827679752-pustishka-lateksnaya-baby-blue]]></url>
@@ -580,7 +580,7 @@
         <vendor>Paomma</vendor>
         <vendorCode>PPL113</vendorCode>
         <model>PPL113</model>
-        <price>0</price>
+        <price>1</price>
         <currencyId>RUB</currencyId>
         <categoryId>897379413064</categoryId>
         <url><![CDATA[https://paomma.ru/catalog/pustyshki/tproduct/909391140132-pustishka-lateksnaya-baby-blue]]></url>
@@ -599,7 +599,7 @@
         <vendor>Paomma</vendor>
         <vendorCode>PPL311</vendorCode>
         <model>PPL311</model>
-        <price>0</price>
+        <price>1</price>
         <currencyId>RUB</currencyId>
         <categoryId>897379413064</categoryId>
         <url><![CDATA[https://paomma.ru/catalog/pustyshki/tproduct/171900876162-pustishka-lateksnaya-black]]></url>
@@ -618,7 +618,7 @@
         <vendor>Paomma</vendor>
         <vendorCode>PPL211</vendorCode>
         <model>PPL211</model>
-        <price>0</price>
+        <price>1</price>
         <currencyId>RUB</currencyId>
         <categoryId>897379413064</categoryId>
         <url><![CDATA[https://paomma.ru/catalog/pustyshki/tproduct/723420481262-pustishka-lateksnaya-black]]></url>
@@ -637,7 +637,7 @@
         <vendor>Paomma</vendor>
         <vendorCode>PPL111</vendorCode>
         <model>PPL111</model>
-        <price>0</price>
+        <price>1</price>
         <currencyId>RUB</currencyId>
         <categoryId>897379413064</categoryId>
         <url><![CDATA[https://paomma.ru/catalog/pustyshki/tproduct/723541719082-pustishka-lateksnaya-black]]></url>
@@ -656,7 +656,7 @@
         <vendor>Paomma</vendor>
         <vendorCode>PPL204</vendorCode>
         <model>PPL204</model>
-        <price>0</price>
+        <price>1</price>
         <currencyId>RUB</currencyId>
         <categoryId>897379413064</categoryId>
         <url><![CDATA[https://paomma.ru/catalog/pustyshki/tproduct/406512194522-pustishka-lateksnaya-zephyr]]></url>
@@ -675,7 +675,7 @@
         <vendor>Paomma</vendor>
         <vendorCode>PPL104</vendorCode>
         <model>PPL104</model>
-        <price>0</price>
+        <price>1</price>
         <currencyId>RUB</currencyId>
         <categoryId>897379413064</categoryId>
         <url><![CDATA[https://paomma.ru/catalog/pustyshki/tproduct/182629368682-pustishka-lateksnaya-zephyr]]></url>
@@ -694,7 +694,7 @@
         <vendor>Paomma</vendor>
         <vendorCode>PPL307</vendorCode>
         <model>PPL307</model>
-        <price>0</price>
+        <price>1</price>
         <currencyId>RUB</currencyId>
         <categoryId>897379413064</categoryId>
         <url><![CDATA[https://paomma.ru/catalog/pustyshki/tproduct/286266788942-pustishka-lateksnaya-sage]]></url>
@@ -713,7 +713,7 @@
         <vendor>Paomma</vendor>
         <vendorCode>PPL207</vendorCode>
         <model>PPL207</model>
-        <price>0</price>
+        <price>1</price>
         <currencyId>RUB</currencyId>
         <categoryId>897379413064</categoryId>
         <url><![CDATA[https://paomma.ru/catalog/pustyshki/tproduct/419134902162-pustishka-lateksnaya-sage]]></url>
@@ -732,7 +732,7 @@
         <vendor>Paomma</vendor>
         <vendorCode>PPL107</vendorCode>
         <model>PPL107</model>
-        <price>0</price>
+        <price>1</price>
         <currencyId>RUB</currencyId>
         <categoryId>897379413064</categoryId>
         <url><![CDATA[https://paomma.ru/catalog/pustyshki/tproduct/267134819542-pustishka-lateksnaya-sage]]></url>
@@ -751,7 +751,7 @@
         <vendor>Paomma</vendor>
         <vendorCode>PPS21216</vendorCode>
         <model>PPS21216</model>
-        <price>0</price>
+        <price>1</price>
         <currencyId>RUB</currencyId>
         <categoryId>876147046474</categoryId>
         <url><![CDATA[https://paomma.ru/catalog/pustyshki/tproduct/596891994862-nabor-silikonovih-pustishek-light-greybu]]></url>
@@ -770,7 +770,7 @@
         <vendor>Paomma</vendor>
         <vendorCode>PPS11216</vendorCode>
         <model>PPS11216</model>
-        <price>0</price>
+        <price>1</price>
         <currencyId>RUB</currencyId>
         <categoryId>876147046474</categoryId>
         <url><![CDATA[https://paomma.ru/catalog/pustyshki/tproduct/744248685062-nabor-silikonovih-pustishek-light-greybu]]></url>
@@ -788,7 +788,7 @@
         <vendor>Paomma</vendor>
         <vendorCode>PPS11716</vendorCode>
         <model>PPS11716</model>
-        <price>0</price>
+        <price>1</price>
         <currencyId>RUB</currencyId>
         <categoryId>876147046474</categoryId>
         <url><![CDATA[https://paomma.ru/catalog/pustyshki/tproduct/295747436492-nabor-silikonovih-pustishek-navyhazelnut]]></url>
@@ -806,7 +806,7 @@
         <vendor>Paomma</vendor>
         <vendorCode>PPS21716</vendorCode>
         <model>PPS21716</model>
-        <price>0</price>
+        <price>1</price>
         <currencyId>RUB</currencyId>
         <categoryId>876147046474</categoryId>
         <url><![CDATA[https://paomma.ru/catalog/pustyshki/tproduct/262800352952-nabor-silikonovih-pustishek-navyhazelnut]]></url>
@@ -824,7 +824,7 @@
         <vendor>Paomma</vendor>
         <vendorCode>PPS11811</vendorCode>
         <model>PPS11811</model>
-        <price>0</price>
+        <price>1</price>
         <currencyId>RUB</currencyId>
         <categoryId>876147046474</categoryId>
         <url><![CDATA[https://paomma.ru/catalog/pustyshki/tproduct/797998291432-nabor-silikonovih-pustishek-blackalmond]]></url>
@@ -842,7 +842,7 @@
         <vendor>Paomma</vendor>
         <vendorCode>PPS21811</vendorCode>
         <model>PPS21811</model>
-        <price>0</price>
+        <price>1</price>
         <currencyId>RUB</currencyId>
         <categoryId>876147046474</categoryId>
         <url><![CDATA[https://paomma.ru/catalog/pustyshki/tproduct/912113367852-nabor-silikonovih-pustishek-blackalmond]]></url>
@@ -860,7 +860,7 @@
         <vendor>Paomma</vendor>
         <vendorCode>PPS21412</vendorCode>
         <model>PPS21412</model>
-        <price>0</price>
+        <price>1</price>
         <currencyId>RUB</currencyId>
         <categoryId>876147046474</categoryId>
         <url><![CDATA[https://paomma.ru/catalog/pustyshki/tproduct/627971933312-nabor-silikonovih-pustishek-zephyrbutter]]></url>
@@ -878,7 +878,7 @@
         <vendor>Paomma</vendor>
         <vendorCode>PPS11412</vendorCode>
         <model>PPS11412</model>
-        <price>0</price>
+        <price>1</price>
         <currencyId>RUB</currencyId>
         <categoryId>876147046474</categoryId>
         <url><![CDATA[https://paomma.ru/catalog/pustyshki/tproduct/318191461312-nabor-silikonovih-pustishek-zephyrbutter]]></url>
@@ -896,7 +896,7 @@
         <vendor>Paomma</vendor>
         <vendorCode>PCL10705</vendorCode>
         <model>PCL10705</model>
-        <price>0</price>
+        <price>1</price>
         <currencyId>RUB</currencyId>
         <categoryId>876147046474</categoryId>
         <url><![CDATA[https://paomma.ru/catalog/derzhateli-dlya-pustyshek/tproduct/548634140082-nabor-derzhatelei-dlya-pustishki]]></url>
@@ -913,7 +913,7 @@
         <vendor>Paomma</vendor>
         <vendorCode>PCL11816</vendorCode>
         <model>PCL11816</model>
-        <price>0</price>
+        <price>1</price>
         <currencyId>RUB</currencyId>
         <categoryId>876147046474</categoryId>
         <url><![CDATA[https://paomma.ru/catalog/derzhateli-dlya-pustyshek/tproduct/655345841832-nabor-derzhatelei-dlya-pustishki]]></url>
@@ -930,7 +930,7 @@
         <vendor>Paomma</vendor>
         <vendorCode>PCL11816</vendorCode>
         <model>PCL11816</model>
-        <price>0</price>
+        <price>1</price>
         <currencyId>RUB</currencyId>
         <categoryId>876147046474</categoryId>
         <url><![CDATA[https://paomma.ru/catalog/derzhateli-dlya-pustyshek/tproduct/479499685362-nabor-derzhatelei-dlya-pustishki]]></url>
@@ -947,7 +947,7 @@
         <vendor>Paomma</vendor>
         <vendorCode>PCL10716</vendorCode>
         <model>PCL10716</model>
-        <price>0</price>
+        <price>1</price>
         <currencyId>RUB</currencyId>
         <categoryId>876147046474</categoryId>
         <url><![CDATA[https://paomma.ru/catalog/derzhateli-dlya-pustyshek/tproduct/816232372412-nabor-derzhatelei-dlya-pustishki]]></url>
@@ -964,7 +964,7 @@
         <vendor>Paomma</vendor>
         <vendorCode>PCL11816</vendorCode>
         <model>PCL11816</model>
-        <price>0</price>
+        <price>1</price>
         <currencyId>RUB</currencyId>
         <categoryId>876147046474</categoryId>
         <url><![CDATA[https://paomma.ru/catalog/derzhateli-dlya-pustyshek/tproduct/735144824872-nabor-derzhatelei-dlya-pustishki]]></url>
@@ -981,7 +981,7 @@
         <vendor>Paomma</vendor>
         <vendorCode>PC105</vendorCode>
         <model>PC105</model>
-        <price>0</price>
+        <price>1</price>
         <currencyId>RUB</currencyId>
         <categoryId>571209369666</categoryId>
         <url><![CDATA[https://paomma.ru/catalog/konteyner-dlya-pustyshek/tproduct/832698854942-futlyar-dlya-pustishki-taupe]]></url>
@@ -999,7 +999,7 @@
         <vendor>Paomma</vendor>
         <vendorCode>PC108</vendorCode>
         <model>PC108</model>
-        <price>0</price>
+        <price>1</price>
         <currencyId>RUB</currencyId>
         <categoryId>571209369666</categoryId>
         <url><![CDATA[https://paomma.ru/catalog/konteyner-dlya-pustyshek/tproduct/146781531402-futlyar-dlya-pustishki-sage]]></url>
@@ -1017,7 +1017,7 @@
         <vendor>Paomma</vendor>
         <vendorCode>PC112</vendorCode>
         <model>PC112</model>
-        <price>0</price>
+        <price>1</price>
         <currencyId>RUB</currencyId>
         <categoryId>571209369666</categoryId>
         <url><![CDATA[https://paomma.ru/catalog/konteyner-dlya-pustyshek/tproduct/303759600192-futlyar-dlya-pustishki-buttercream]]></url>
@@ -1035,7 +1035,7 @@
         <vendor>Paomma</vendor>
         <vendorCode>PC115</vendorCode>
         <model>PC115</model>
-        <price>0</price>
+        <price>1</price>
         <currencyId>RUB</currencyId>
         <categoryId>571209369666</categoryId>
         <url><![CDATA[https://paomma.ru/catalog/konteyner-dlya-pustyshek/tproduct/129016862462-futlyar-dlya-pustishki-light-grey]]></url>
@@ -1053,7 +1053,7 @@
         <vendor>Paomma</vendor>
         <vendorCode>PC115</vendorCode>
         <model>PC115</model>
-        <price>0</price>
+        <price>1</price>
         <currencyId>RUB</currencyId>
         <categoryId>571209369666</categoryId>
         <url><![CDATA[https://paomma.ru/catalog/konteyner-dlya-pustyshek/tproduct/585650088302-futlyar-dlya-pustishki-zephyr]]></url>
@@ -1071,7 +1071,7 @@
         <vendor>Paomma</vendor>
         <vendorCode>PMC107</vendorCode>
         <model>PMC107</model>
-        <price>0</price>
+        <price>1</price>
         <currencyId>RUB</currencyId>
         <categoryId>952891154747</categoryId>
         <url><![CDATA[https://paomma.ru/catalog/konteynery-dlya-smesi/tproduct/785085133432-konteiner-dlya-suhoi-molochnoi-smesi-sag]]></url>
@@ -1090,7 +1090,7 @@
         <vendor>Paomma</vendor>
         <vendorCode>PMC112</vendorCode>
         <model>PMC112</model>
-        <price>0</price>
+        <price>1</price>
         <currencyId>RUB</currencyId>
         <categoryId>952891154747</categoryId>
         <url><![CDATA[https://paomma.ru/catalog/konteynery-dlya-smesi/tproduct/501558429772-konteiner-dlya-suhoi-molochnoi-smesi-but]]></url>
@@ -1109,7 +1109,7 @@
         <vendor>Paomma</vendor>
         <vendorCode>PMC115</vendorCode>
         <model>PMC115</model>
-        <price>0</price>
+        <price>1</price>
         <currencyId>RUB</currencyId>
         <categoryId>952891154747</categoryId>
         <url><![CDATA[https://paomma.ru/catalog/konteynery-dlya-smesi/tproduct/732244182012-konteiner-dlya-suhoi-molochnoi-smesi-lig]]></url>
@@ -1128,7 +1128,7 @@
         <vendor>Paomma</vendor>
         <vendorCode>PMC104</vendorCode>
         <model>PMC104</model>
-        <price>0</price>
+        <price>1</price>
         <currencyId>RUB</currencyId>
         <categoryId>952891154747</categoryId>
         <url><![CDATA[https://paomma.ru/catalog/konteynery-dlya-smesi/tproduct/650473111822-konteiner-dlya-suhoi-molochnoi-smesi-tau]]></url>
@@ -1147,7 +1147,7 @@
         <vendor>Paomma</vendor>
         <vendorCode>PB112</vendorCode>
         <model>PB112</model>
-        <price>0</price>
+        <price>465</price>
         <currencyId>RUB</currencyId>
         <categoryId>876147046474</categoryId>
         <url><![CDATA[https://paomma.ru/catalog/butylochki-dlya-kormleniya/pb112]]></url>
@@ -1166,7 +1166,7 @@
         <vendor>Paomma</vendor>
         <vendorCode>PB212</vendorCode>
         <model>PB212</model>
-        <price>0</price>
+        <price>490</price>
         <currencyId>RUB</currencyId>
         <categoryId>876147046474</categoryId>
         <url><![CDATA[https://paomma.ru/catalog/butylochki-dlya-kormleniya/pb212]]></url>
@@ -1185,7 +1185,7 @@
         <vendor>Paomma</vendor>
         <vendorCode>PB104</vendorCode>
         <model>PB104</model>
-        <price>0</price>
+        <price>465</price>
         <currencyId>RUB</currencyId>
         <categoryId>876147046474</categoryId>
         <url><![CDATA[https://paomma.ru/catalog/butylochki-dlya-kormleniya/pb104]]></url>
@@ -1204,7 +1204,7 @@
         <vendor>Paomma</vendor>
         <vendorCode>PB204</vendorCode>
         <model>PB204</model>
-        <price>0</price>
+        <price>490</price>
         <currencyId>RUB</currencyId>
         <categoryId>876147046474</categoryId>
         <url><![CDATA[https://paomma.ru/catalog/butylochki-dlya-kormleniya/pb204]]></url>
@@ -1223,7 +1223,7 @@
         <vendor>Paomma</vendor>
         <vendorCode>PB114</vendorCode>
         <model>PB114</model>
-        <price>0</price>
+        <price>465</price>
         <currencyId>RUB</currencyId>
         <categoryId>876147046474</categoryId>
         <url><![CDATA[https://paomma.ru/catalog/butylochki-dlya-kormleniya/pb114]]></url>
@@ -1242,7 +1242,7 @@
         <vendor>Paomma</vendor>
         <vendorCode>PB214</vendorCode>
         <model>PB214</model>
-        <price>0</price>
+        <price>490</price>
         <currencyId>RUB</currencyId>
         <categoryId>876147046474</categoryId>
         <url><![CDATA[https://paomma.ru/catalog/butylochki-dlya-kormleniya/pb214]]></url>
@@ -1261,7 +1261,7 @@
         <vendor>Paomma</vendor>
         <vendorCode>PB107</vendorCode>
         <model>PB107</model>
-        <price>0</price>
+        <price>465</price>
         <currencyId>RUB</currencyId>
         <categoryId>876147046474</categoryId>
         <url><![CDATA[https://paomma.ru/catalog/butylochki-dlya-kormleniya/pb107]]></url>
@@ -1278,7 +1278,7 @@
         <vendor>Paomma</vendor>
         <vendorCode>PB207</vendorCode>
         <model>PB207</model>
-        <price>0</price>
+        <price>490</price>
         <currencyId>RUB</currencyId>
         <categoryId>876147046474</categoryId>
         <url><![CDATA[https://paomma.ru/catalog/butylochki-dlya-kormleniya/pb207]]></url>
@@ -1295,7 +1295,7 @@
         <vendor>Paomma</vendor>
         <vendorCode>PBH214</vendorCode>
         <model>PBH214</model>
-        <price>0</price>
+        <price>570</price>
         <currencyId>RUB</currencyId>
         <categoryId>876147046474</categoryId>
         <url><![CDATA[https://paomma.ru/catalog/butylochki-dlya-kormleniya/s-ruchkami-pbh214]]></url>
@@ -1315,7 +1315,7 @@
         <vendor>Paomma</vendor>
         <vendorCode>PBН207</vendorCode>
         <model>PBН207</model>
-        <price>0</price>
+        <price>570</price>
         <currencyId>RUB</currencyId>
         <categoryId>876147046474</categoryId>
         <url><![CDATA[https://paomma.ru/catalog/butylochki-dlya-kormleniya/s-ruchkami-pbh207]]></url>
@@ -1334,7 +1334,7 @@
         <vendor>Paomma</vendor>
         <vendorCode>PBН215</vendorCode>
         <model>PBН215</model>
-        <price>0</price>
+        <price>570</price>
         <currencyId>RUB</currencyId>
         <categoryId>876147046474</categoryId>
         <url><![CDATA[https://paomma.ru/catalog/butylochki-dlya-kormleniya/s-ruchkami-pbh215]]></url>
@@ -1353,7 +1353,7 @@
         <vendor>Paomma</vendor>
         <vendorCode>PBН212</vendorCode>
         <model>PBН212</model>
-        <price>0</price>
+        <price>570</price>
         <currencyId>RUB</currencyId>
         <categoryId>876147046474</categoryId>
         <url><![CDATA[https://paomma.ru/catalog/butylochki-dlya-kormleniya/s-ruchkami-pbh212]]></url>
@@ -1372,7 +1372,7 @@
         <vendor>Paomma</vendor>
         <vendorCode>PAO_764557</vendorCode>
         <model>PAO_764557</model>
-        <price>0</price>
+        <price>790</price>
         <currencyId>RUB</currencyId>
         <categoryId>876147046474</categoryId>
         <url><![CDATA[https://paomma.ru/butylochki-dlya-kormleniya/steklyannaya-gb118]]></url>
@@ -1388,7 +1388,7 @@
         <vendor>Paomma</vendor>
         <vendorCode>PAO_A306AD</vendorCode>
         <model>PAO_A306AD</model>
-        <price>0</price>
+        <price>899</price>
         <currencyId>RUB</currencyId>
         <categoryId>876147046474</categoryId>
         <url><![CDATA[https://paomma.ru/butylochki-dlya-kormleniya/steklyannaya-gb215]]></url>
@@ -1404,7 +1404,7 @@
         <vendor>Paomma</vendor>
         <vendorCode>PAO_340408</vendorCode>
         <model>PAO_340408</model>
-        <price>0</price>
+        <price>990</price>
         <currencyId>RUB</currencyId>
         <categoryId>876147046474</categoryId>
         <url><![CDATA[https://paomma.ru/butylochki-dlya-kormleniya/steklyannaya-gb214]]></url>
@@ -1420,7 +1420,7 @@
         <vendor>Paomma</vendor>
         <vendorCode>PB11412</vendorCode>
         <model>PB11412</model>
-        <price>0</price>
+        <price>880</price>
         <currencyId>RUB</currencyId>
         <categoryId>876147046474</categoryId>
         <url><![CDATA[https://paomma.ru/catalog/butylochki-dlya-kormleniya/pb11412]]></url>
@@ -1434,31 +1434,12 @@
         <description>Материал бутылочки: 100% полипропилен. Объем: 180 мл. Особенности: Антиколиковая. Высота: 14 см. Диаметр горлышка: 5 см. Диаметр широкой части бутылочки: 7,5 см. Поток: Медленный поток: размер S. Материал соски: 100% пищевой силикон. Высота соски. 6,5 см. Диаметр соски: 5 см. Вес. 79 г. Длина упаковки: 9 см. Высота упаковки: 17 см. Ширина упаковки: 12 см.</description>
         <sales_notes>Цвет: Mix. Объём: 180 мл. Возраст: 0-3. Материал: Полипропилен. Официальный сайт Paomma.</sales_notes>
       </offer>
-      <offer id="PB112_buttercream_1" available="true">
-        <name>Набор бутылочек 240</name>
-        <vendor>Paomma</vendor>
-        <vendorCode>PB112</vendorCode>
-        <model>PB112</model>
-        <price>0</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>876147046474</categoryId>
-        <url><![CDATA[https://paomma.ru/catalog/butylochki-dlya-kormleniya/pb112]]></url>
-        <picture>https://static.tildacdn.com/stor3463-3463-4466-b739-633131326639/44222879.jpg</picture>
-        <param name="Цвет">Buttercream (Сливочный)</param>
-        <param name="Объём">240 мл</param>
-        <param name="Материал">Полипропилен</param>
-        <param name="Возраст">0-3</param>
-        <param name="collection">butylochki</param>
-        <collectionId>butylochki</collectionId>
-        <description>Материал бутылочки: 100% полипропилен. Объем: 180 мл. Особенности: Антиколиковая. Высота: 14 см. Вес. 79 г. Диаметр горлышка: 5 см. Диаметр широкой части бутылочки: 7,5 см. Поток: Медленный поток: размер S. Материал соски: 100% пищевой силикон. Высота соски. 6,5 см. Диаметр соски: 5 см. Длина упаковки: 9 см. Высота упаковки: 17 см. Ширина упаковки: 12 см.</description>
-        <sales_notes>Цвет: Buttercream (Сливочный). Объём: 240 мл. Возраст: 0-3. Материал: Полипропилен. Официальный сайт Paomma.</sales_notes>
-      </offer>
       <offer id="PAO_E25733" available="true">
         <name>Молокоотсос электрический беспроводной</name>
         <vendor>Paomma</vendor>
         <vendorCode>PAO_E25733</vendorCode>
         <model>PAO_E25733</model>
-        <price>0</price>
+        <price>2500</price>
         <currencyId>RUB</currencyId>
         <categoryId>918219204990</categoryId>
         <url><![CDATA[https://paomma.ru/catalog/molokootsos]]></url>
@@ -1473,7 +1454,7 @@
         <vendor>Paomma</vendor>
         <vendorCode>PB11512</vendorCode>
         <model>PB11512</model>
-        <price>0</price>
+        <price>880</price>
         <currencyId>RUB</currencyId>
         <categoryId>876147046474</categoryId>
         <url><![CDATA[https://paomma.ru/catalog/butylochki-dlya-kormleniya/pb11512]]></url>
@@ -1485,31 +1466,12 @@
         <description>Материал бутылочки: 100% полипропилен. Объем: 180 мл. Особенности: Антиколиковая. Высота: 14 см. Диаметр горлышка: 5 см. Диаметр широкой части бутылочки: 7,5 см. Поток: Медленный поток: размер S. Материал соски: 100% пищевой силикон. Высота соски. 6,5 см. Диаметр соски: 5 см. Вес. 79 г. Длина упаковки: 9 см. Высота упаковки: 17 см. Ширина упаковки: 12 см.</description>
         <sales_notes>Цвет: Sage (Шалфей). Объём: 180 мл. Официальный сайт Paomma.</sales_notes>
       </offer>
-      <offer id="PB112_buttercream_2" available="true">
-        <name>Набор Light Grey/Buttercream 240</name>
-        <vendor>Paomma</vendor>
-        <vendorCode>PB112</vendorCode>
-        <model>PB112</model>
-        <price>0</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>876147046474</categoryId>
-        <url><![CDATA[https://paomma.ru/catalog/butylochki-dlya-kormleniya/pb112]]></url>
-        <picture>https://static.tildacdn.com/stor3539-6664-4239-b633-663263656431/46522000.jpg</picture>
-        <param name="Цвет">Buttercream (Сливочный)</param>
-        <param name="Объём">240 мл</param>
-        <param name="Материал">Полипропилен</param>
-        <param name="Возраст">0-3</param>
-        <param name="collection">butylochki</param>
-        <collectionId>butylochki</collectionId>
-        <description>Материал бутылочки: 100% полипропилен. Объем: 180 мл. Особенности: Антиколиковая. Высота: 14 см. Вес. 79 г. Диаметр горлышка: 5 см. Диаметр широкой части бутылочки: 7,5 см. Поток: Медленный поток: размер S. Материал соски: 100% пищевой силикон. Высота соски. 6,5 см. Диаметр соски: 5 см. Длина упаковки: 9 см. Высота упаковки: 17 см. Ширина упаковки: 12 см.</description>
-        <sales_notes>Цвет: Buttercream (Сливочный). Объём: 240 мл. Возраст: 0-3. Материал: Полипропилен. Официальный сайт Paomma.</sales_notes>
-      </offer>
       <offer id="PAO_94A003" available="true">
         <name>Стеклянная бутылочка Light grey, 160 мл</name>
         <vendor>Paomma</vendor>
         <vendorCode>PAO_94A003</vendorCode>
         <model>PAO_94A003</model>
-        <price>0</price>
+        <price>790</price>
         <currencyId>RUB</currencyId>
         <categoryId>876147046474</categoryId>
         <url><![CDATA[https://paomma.ru/butylochki-dlya-kormleniya/steklyannaya-gb115]]></url>
@@ -1525,7 +1487,7 @@
         <vendor>Paomma</vendor>
         <vendorCode>PAO_6CC951</vendorCode>
         <model>PAO_6CC951</model>
-        <price>0</price>
+        <price>990</price>
         <currencyId>RUB</currencyId>
         <categoryId>876147046474</categoryId>
         <url><![CDATA[https://paomma.ru/butylochki-dlya-kormleniya/steklyannaya-gb218]]></url>
@@ -1541,7 +1503,7 @@
         <vendor>Paomma</vendor>
         <vendorCode>PAO_B22E7E</vendorCode>
         <model>PAO_B22E7E</model>
-        <price>0</price>
+        <price>790</price>
         <currencyId>RUB</currencyId>
         <categoryId>876147046474</categoryId>
         <url><![CDATA[https://paomma.ru/butylochki-dlya-kormleniya/steklyannaya-gb114]]></url>
