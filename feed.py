@@ -67,9 +67,16 @@ def load_progress():
     if os.path.exists(PROGRESS_FILE):
         try:
             with open(PROGRESS_FILE, 'r', encoding='utf-8') as f:
-                return json.load(f)
-        except Exception as e:
-            log(f"❌ Ошибка загрузки прогресса: {e}")
+                data = json.load(f)
+                if isinstance(data, dict) and 'products' in data and isinstance(data['products'], list):
+                    log(f"✅ Прогресс загружен: {len(data['products'])} товаров")
+                    return data
+                else:
+                    log("⚠️ Неверный формат файла progress.json — создан пустой прогресс")
+                    return {"products": []}
+        except (json.JSONDecodeError, Exception) as e:
+            log(f"❌ Ошибка чтения progress.json: {e}. Создаём новый файл.")
+            return {"products": []}
     return {"products": []}
 
 def save_progress(products):
