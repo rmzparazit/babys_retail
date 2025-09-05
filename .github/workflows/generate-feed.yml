@@ -33,7 +33,7 @@ jobs:
       - name: 🔍 Проверить, создан ли фид
         run: |
           if [ -f "output/paomma_catalog_price.xml" ]; then
-            echo "✅ Фид создан, размер: $(wc -c < output/paomma_catalog.xml) байт"
+            echo "✅ Фид создан, размер: $(wc -c < output/paomma_catalog_price.xml) байт"
           else
             echo "❌ Ошибка: фид не создан"
             ls -la
