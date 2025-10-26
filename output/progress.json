@@ -2578,6 +2578,44 @@
             "category_hint": "",
             "link": "https://paomma.ru/catalog/butylochki-dlya-kormleniya/pb21512",
             "collection": "butylochki"
+        },
+        {
+            "name": "Прорезыватель-погремушка 4 в 1",
+            "price": "850",
+            "vendorCode": "PT001",
+            "image": "https://static.tildacdn.com/stor3863-6235-4263-a665-373939353535/50005743.png",
+            "additional_images": [],
+            "color": "Не указан",
+            "material": "",
+            "age": "",
+            "size": "Длина: 12 см",
+            "volume": "",
+            "composition": "",
+            "handle": "",
+            "description": "",
+            "category_hint": "",
+            "categoryHint": "prorezyvatel",
+            "link": "https://paomma.ru/catalog/prorezyvateli/tproduct/452159648112-prorezivatel-pogremushka-4-v-1",
+            "collection": "prorezyvateli"
+        },
+        {
+            "name": "Стеклянная бутылочка Almond milk, 240 мл",
+            "price": "899",
+            "vendorCode": "GB218",
+            "image": "https://static.tildacdn.com/stor6334-3133-4638-a161-366632643436/46983595.jpg",
+            "additional_images": [],
+            "color": "Almond milk",
+            "material": "Стекло",
+            "age": "0-6",
+            "size": "",
+            "volume": "240 мл",
+            "composition": "",
+            "handle": "",
+            "description": "Артикул\tGB218\nМатериал бутылочки\t100% полипропилен\nОбъем\t240 мл\nОсобенности\tАнтиколиковая\nВысота\t17 см\nДиаметр горлышка\t5 см\nДиаметр широкой части бутылочки\t6,5 см\nПоток\tСредний поток: размер M\nМатериал соски\t100% пищевой силикон\nВысота соски\t6,5 см\nДиаметр соски\t5 см\nДлина упаковки\t10 см\nВысота упаковки\t19 см\nШирина упаковки\t13 см",
+            "category_hint": "",
+            "categoryHint": "butylochka",
+            "link": "https://paomma.ru/catalog/butylochki-dlya-kormleniya/steklyannaya-gb218",
+            "collection": "butylochki"
         }
     ]
 }
