@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2025-10-26 22:18">
+<yml_catalog date="2025-11-02 22:20">
   <shop>
     <name>Paomma</name>
     <company>Paomma</company>
@@ -2584,6 +2584,192 @@
         <collectionId>butylochki</collectionId>
         <description>Материал бутылочки: 100% полипропилен. Объем: 240 мл. Особенности: Антиколиковая. Высота: 17 см. Диаметр горлышка: 5 см. Диаметр широкой части бутылочки: 6,5 см. Поток: Средний поток: размер M. Материал соски: 100% пищевой силикон. Высота соски. 6,5 см. Диаметр соски: 5 см. Длина упаковки: 10 см. Высота упаковки: 19 см. Ширина упаковки: 13 см.</description>
         <sales_notes>Цвет: Almond milk (Молоко миндаля). Объём: 240 мл. Возраст: 0-6. Материал: Стекло. Официальный сайт Paomma.</sales_notes>
+      </offer>
+      <offer id="PT001_1" available="true">
+        <name>Прорезыватель-браслет</name>
+        <vendor>Paomma</vendor>
+        <vendorCode>PT001</vendorCode>
+        <model>PT001</model>
+        <price>540</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>206682998845</categoryId>
+        <url><![CDATA[https://paomma.ru/catalog/prorezyvateli/tproduct/291377558282-prorezivatel-braslet]]></url>
+        <picture>https://static.tildacdn.com/stor3864-6462-4037-b634-656530333537/96308515.png</picture>
+        <param name="Размер">Длина: 12 см</param>
+        <param name="collection">prorezyvateli</param>
+        <collectionId>prorezyvateli</collectionId>
+        <description>Качественный товар для детей от бренда Paomma. Подходит с рождения.</description>
+        <sales_notes>Официальный сайт Paomma.</sales_notes>
+      </offer>
+      <offer id="GB118_almondmilk" available="true">
+        <name>Стеклянная бутылочка Almond milk, 160 мл</name>
+        <vendor>Paomma</vendor>
+        <vendorCode>GB118</vendorCode>
+        <model>GB118</model>
+        <price>790</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>876147046474</categoryId>
+        <url><![CDATA[https://paomma.ru/catalog/butylochki-dlya-kormleniya/steklyannaya-gb118]]></url>
+        <picture>https://static.tildacdn.com/stor3432-6530-4864-a262-353762353436/76028155.jpg</picture>
+        <param name="Цвет">Almond milk (Молоко миндаля)</param>
+        <param name="Объём">160 мл</param>
+        <param name="Материал">Стекло</param>
+        <param name="Возраст">0-6</param>
+        <param name="collection">butylochki</param>
+        <collectionId>butylochki</collectionId>
+        <description>Материал бутылочки: 100% полипропилен. Объем: 160 мл. Особенности: Антиколиковая. Высота: 17 см. Диаметр горлышка: 5 см. Диаметр широкой части бутылочки: 6,5 см. Поток: Средний поток: размер M. Материал соски: 100% пищевой силикон. Высота соски. 6,5 см. Диаметр соски: 5 см. Длина упаковки: 10 см. Высота упаковки: 19 см. Ширина упаковки: 13 см.</description>
+        <sales_notes>Цвет: Almond milk (Молоко миндаля). Объём: 160 мл. Возраст: 0-6. Материал: Стекло. Официальный сайт Paomma.</sales_notes>
+      </offer>
+      <offer id="GB215_litegrey" available="true">
+        <name>Стеклянная бутылочка Light grey, 240 мл</name>
+        <vendor>Paomma</vendor>
+        <vendorCode>GB215</vendorCode>
+        <model>GB215</model>
+        <price>899</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>876147046474</categoryId>
+        <url><![CDATA[https://paomma.ru/catalog/butylochki-dlya-kormleniya/steklyannaya-gb215]]></url>
+        <picture>https://static.tildacdn.com/stor3934-3532-4262-b531-316666353464/40655350.jpg</picture>
+        <param name="Цвет">Lite grey</param>
+        <param name="Объём">240 мл</param>
+        <param name="Материал">Стекло</param>
+        <param name="Возраст">3-6</param>
+        <param name="collection">butylochki</param>
+        <collectionId>butylochki</collectionId>
+        <description>Материал бутылочки: 100% полипропилен. Объем: 240 мл. Особенности: Антиколиковая. Высота: 17 см. Диаметр горлышка: 5 см. Диаметр широкой части бутылочки: 6,5 см. Поток: Средний поток: размер M. Материал соски: 100% пищевой силикон. Высота соски. 6,5 см. Диаметр соски: 5 см. Длина упаковки: 10 см. Высота упаковки: 19 см. Ширина упаковки: 13 см.</description>
+        <sales_notes>Цвет: Lite grey. Объём: 240 мл. Возраст: 3-6. Материал: Стекло. Официальный сайт Paomma.</sales_notes>
+      </offer>
+      <offer id="GB214_zephyr" available="true">
+        <name>Стеклянная бутылочка Zephyr, 240 мл</name>
+        <vendor>Paomma</vendor>
+        <vendorCode>GB214</vendorCode>
+        <model>GB214</model>
+        <price>899</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>876147046474</categoryId>
+        <url><![CDATA[https://paomma.ru/catalog/butylochki-dlya-kormleniya/steklyannaya-gb214]]></url>
+        <picture>https://static.tildacdn.com/stor3664-6564-4564-a233-373135303339/29471605.jpg</picture>
+        <param name="Цвет">Zephyr (Зефир)</param>
+        <param name="Объём">240 мл</param>
+        <param name="Материал">Стекло</param>
+        <param name="Возраст">3-6</param>
+        <param name="collection">butylochki</param>
+        <collectionId>butylochki</collectionId>
+        <description>Материал бутылочки: 100% полипропилен. Объем: 240 мл. Особенности: Антиколиковая. Высота: 17 см. Диаметр горлышка: 5 см. Диаметр широкой части бутылочки: 6,5 см. Поток: Средний поток: размер M. Материал соски: 100% пищевой силикон. Высота соски. 6,5 см. Диаметр соски: 5 см. Длина упаковки: 10 см. Высота упаковки: 19 см. Ширина упаковки: 13 см.</description>
+        <sales_notes>Цвет: Zephyr (Зефир). Объём: 240 мл. Возраст: 3-6. Материал: Стекло. Официальный сайт Paomma.</sales_notes>
+      </offer>
+      <offer id="GB115_litegrey" available="true">
+        <name>Стеклянная бутылочка Light grey, 160 мл</name>
+        <vendor>Paomma</vendor>
+        <vendorCode>GB115</vendorCode>
+        <model>GB115</model>
+        <price>790</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>876147046474</categoryId>
+        <url><![CDATA[https://paomma.ru/catalog/butylochki-dlya-kormleniya/steklyannaya-gb115]]></url>
+        <picture>https://static.tildacdn.com/stor3162-3661-4162-b966-313938366263/61948587.jpg</picture>
+        <param name="Цвет">Lite grey</param>
+        <param name="Объём">160 мл</param>
+        <param name="Материал">Стекло</param>
+        <param name="Возраст">0-6</param>
+        <param name="collection">butylochki</param>
+        <collectionId>butylochki</collectionId>
+        <description>Материал бутылочки: 100% полипропилен. Объем: 160 мл. Особенности: Антиколиковая. Высота: 17 см. Диаметр горлышка: 5 см. Диаметр широкой части бутылочки: 6,5 см. Поток: Средний поток: размер M. Материал соски: 100% пищевой силикон. Высота соски. 6,5 см. Диаметр соски: 5 см. Длина упаковки: 10 см. Высота упаковки: 19 см. Ширина упаковки: 13 см.</description>
+        <sales_notes>Цвет: Lite grey. Объём: 160 мл. Возраст: 0-6. Материал: Стекло. Официальный сайт Paomma.</sales_notes>
+      </offer>
+      <offer id="GB114_zephyr" available="true">
+        <name>Стеклянная бутылочка Zephyr, 160 мл</name>
+        <vendor>Paomma</vendor>
+        <vendorCode>GB114</vendorCode>
+        <model>GB114</model>
+        <price>790</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>876147046474</categoryId>
+        <url><![CDATA[https://paomma.ru/catalog/butylochki-dlya-kormleniya/steklyannaya-gb114]]></url>
+        <picture>https://static.tildacdn.com/stor3437-3139-4132-b939-356536663464/56308733.jpg</picture>
+        <param name="Цвет">Zephyr (Зефир)</param>
+        <param name="Объём">160 мл</param>
+        <param name="Материал">Стекло</param>
+        <param name="Возраст">0-6</param>
+        <param name="collection">butylochki</param>
+        <collectionId>butylochki</collectionId>
+        <description>Материал бутылочки: 100% полипропилен. Объем: 160 мл. Особенности: Антиколиковая. Высота: 17 см. Диаметр горлышка: 5 см. Диаметр широкой части бутылочки: 6,5 см. Поток: Средний поток: размер M. Материал соски: 100% пищевой силикон. Высота соски. 6,5 см. Диаметр соски: 5 см. Длина упаковки: 10 см. Высота упаковки: 19 см. Ширина упаковки: 13 см.</description>
+        <sales_notes>Цвет: Zephyr (Зефир). Объём: 160 мл. Возраст: 0-6. Материал: Стекло. Официальный сайт Paomma.</sales_notes>
+      </offer>
+      <offer id="GB112_buttercream" available="true">
+        <name>Стеклянная бутылочка Buttercream, 160 мл</name>
+        <vendor>Paomma</vendor>
+        <vendorCode>GB112</vendorCode>
+        <model>GB112</model>
+        <price>790</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>876147046474</categoryId>
+        <url><![CDATA[https://paomma.ru/catalog/butylochki-dlya-kormleniya/steklyannaya-gb112]]></url>
+        <picture>https://static.tildacdn.com/stor6231-6666-4439-a132-663062323035/48884472.jpg</picture>
+        <param name="Цвет">Buttercream (Сливочный)</param>
+        <param name="Объём">160 мл</param>
+        <param name="Материал">Стекло</param>
+        <param name="Возраст">0-6</param>
+        <param name="collection">butylochki</param>
+        <collectionId>butylochki</collectionId>
+        <description>Материал бутылочки: боросиликатное стекло. Материал соски: пищевой силикон. Объем: 160 мл. Особенности: Антиколиковая. Высота: 14 см. Вес. 79 г. Диаметр горлышка: 5 см. Диаметр широкой части бутылочки: 7,5 см. Поток: Медленный поток: размер М. Материал соски: 100% пищевой силикон. Высота соски. 6,5 см. Диаметр соски: 5 см. Длина упаковки: 9 см. Высота упаковки: 17 см. Ширина упаковки: 12 см.</description>
+        <sales_notes>Цвет: Buttercream (Сливочный). Объём: 160 мл. Возраст: 0-6. Материал: Стекло. Официальный сайт Paomma.</sales_notes>
+      </offer>
+      <offer id="GB212_buttercream" available="true">
+        <name>Стеклянная бутылочка Buttercream, 240 мл</name>
+        <vendor>Paomma</vendor>
+        <vendorCode>GB212</vendorCode>
+        <model>GB212</model>
+        <price>899</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>876147046474</categoryId>
+        <url><![CDATA[https://paomma.ru/catalog/butylochki-dlya-kormleniya/steklyannaya-gb212]]></url>
+        <picture>https://static.tildacdn.com/stor6662-6333-4536-b465-663531313639/94992070.jpg</picture>
+        <param name="Цвет">Buttercream (Сливочный)</param>
+        <param name="Объём">240 мл</param>
+        <param name="Материал">Стекло</param>
+        <param name="Возраст">3-6</param>
+        <param name="collection">butylochki</param>
+        <collectionId>butylochki</collectionId>
+        <description>Материал бутылочки: боросиликатное стекло. Материал соски: пищевой силикон. Объем: 240 мл. Особенности: Антиколиковая. Высота: 14 см. Вес. 79 г. Диаметр горлышка: 5 см. Диаметр широкой части бутылочки: 7,5 см. Поток: Медленный поток: размер М. Материал соски: 100% пищевой силикон. Высота соски. 6,5 см. Диаметр соски: 5 см. Длина упаковки: 9 см. Высота упаковки: 17 см. Ширина упаковки: 12 см.</description>
+        <sales_notes>Цвет: Buttercream (Сливочный). Объём: 240 мл. Возраст: 3-6. Материал: Стекло. Официальный сайт Paomma.</sales_notes>
+      </offer>
+      <offer id="BR121_" available="true">
+        <name>Ершик для бутылочек</name>
+        <vendor>Paomma</vendor>
+        <vendorCode>BR121</vendorCode>
+        <model>BR121</model>
+        <price>800</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>876147046474</categoryId>
+        <url><![CDATA[https://paomma.ru/catalog/butylochki-dlya-kormleniya/tproduct/537287056622-ershik-dlya-butilochek]]></url>
+        <picture>https://static.tildacdn.com/stor3932-6365-4530-b037-636630663465/91224804.png</picture>
+        <param name="Цвет">Розовый</param>
+        <param name="Размер">Длина: 12 см</param>
+        <param name="Материал">Полипропилен</param>
+        <param name="collection">butylochki</param>
+        <collectionId>butylochki</collectionId>
+        <description>Качественный товар для детей от бренда Paomma. Подходит с рождения.</description>
+        <sales_notes>Цвет: Розовый. Материал: Полипропилен. Официальный сайт Paomma.</sales_notes>
+      </offer>
+      <offer id="BR115_" available="true">
+        <name>Ершик для бутылочек</name>
+        <vendor>Paomma</vendor>
+        <vendorCode>BR115</vendorCode>
+        <model>BR115</model>
+        <price>800</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>876147046474</categoryId>
+        <url><![CDATA[https://paomma.ru/catalog/butylochki-dlya-kormleniya/tproduct/940484348842-ershik-dlya-butilochek]]></url>
+        <picture>https://static.tildacdn.com/stor3661-3831-4162-a464-393231323964/53384876.png</picture>
+        <param name="Цвет">Розовый</param>
+        <param name="Размер">Длина: 12 см</param>
+        <param name="Материал">Полипропилен</param>
+        <param name="Возраст">3-6</param>
+        <param name="collection">butylochki</param>
+        <collectionId>butylochki</collectionId>
+        <description>Качественный товар для детей от бренда Paomma. Подходит с рождения.</description>
+        <sales_notes>Цвет: Розовый. Возраст: 3-6. Материал: Полипропилен. Официальный сайт Paomma.</sales_notes>
       </offer>
     </offers>
     <collections>
