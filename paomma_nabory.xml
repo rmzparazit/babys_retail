@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<yml_catalog date="2025-12-08 15:16:00">
+  <shop>
+    <name>Paomma</name>
+    <company>Paomma</company>
+    <url>https://paomma.ru</url>
+    <platform>Tilda</platform>
+    <currencies>
+      <currency id="RUB" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="10">Подарочный набор в роддом 4 в 1 Buttercream</category>
+      <category id="20">Подарочный набор в роддом 4 в 1 Taupe</category>
+      <category id="30">Подарочный набор в роддом 6 в 1 Taupe</category>
+      <category id="40">Подарочный набор в роддом 6 в 1 Buttercream</category>
+      <category id="50">Подарочный набор в роддом 7 в 1 Buttercream</category>
+      <category id="60">Подарочный набор в роддом 7 в 1 Taupe</category>
+    </categories>
+    <offers>
+      <offer id="1" available="true">
+        <name>Подарочный набор в роддом 4 в 1</name>
+        <vendor>Paomma</vendor>
+        <vendorCode>B41</vendorCode>
+        <model>Набор для новорождённого Buttercream 4 в 1</model>
+        <typePrefix>Набор подарочный на выписку</typePrefix>
+        <price>1499</price>
+        <oldprice>1800</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>10</categoryId>
+        <url><![CDATA[https://paomma.ru/catalog/podarochnyy-nabor-dlya-novorozhdennogo/4-v-1-buttercream]]></url>
+        <picture>https://optim.tildacdn.com/tild3238-6366-4239-b564-643838613831/-/format/webp/_6.png.webp</picture>
+        <param name="Цвет">Buttercream (Кремовый)</param>
+        <param name="Материал">Полипропилен, каучук, пищевой силикон</param>
+        <custom_label_0>Защитная упаковка из плотного переработанного картона</custom_label_0>
+        <custom_label_1>Красиво и удобно - можно дарить сразу, без дополнительных хлопот</custom_label_1>
+        <custom_label_2>Внутри каждого набора открытка!</custom_label_2>
+        <custom_label_3>В набор входит всё действительно необходимое в первые месяцы жизни малыша</custom_label_3>
+        <collectionId>11</collectionId>
+        <pickup>1</pickup>
+        <delivery>1</delivery>
+        <age unit="year">0+</age>
+        <manufacturer_warranty>1</manufacturer_warranty>
+        <store>false</store>
+        <description>Комплект 4 в 1: пластиковая бутылочка 180 мл, пустышка-вишня из натурального каучука, держатель 2 в 1, прорезыватель-браслет + открытка с пожеланием</description>
+        <sales_notes>Доставка до 7 рабочих дней в ПВЗ Я.Маркет или курьером до двери — в удобное время</sales_notes>
+      </offer>
+      <offer id="2" available="true">
+        <name>Подарочный набор в роддом 4 в 1</name>
+        <vendor>Paomma</vendor>
+        <vendorCode>T41</vendorCode>
+        <model>Набор для новорождённого Taupe 4 в 1</model>
+        <typePrefix>Набор для кормления</typePrefix>
+        <price>1499</price>
+        <oldprice>1800</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>20</categoryId>
+        <url><![CDATA[https://paomma.ru/catalog/podarochnyy-nabor-dlya-novorozhdennogo/4-v-1-taupe]]></url>
+        <picture>https://optim.tildacdn.com/tild3566-3765-4539-b837-656330656362/-/format/webp/_7.png.webp</picture>
+        <param name="Цвет">Taupe (Матовый серо-коричневый)</param>
+        <param name="Материал">Полипропилен, каучук, пищевой силикон</param>
+        <custom_label_0>Защитная упаковка из плотного переработанного картона</custom_label_0>
+        <custom_label_1>Красиво и удобно - можно дарить сразу, без дополнительных хлопот</custom_label_1>
+        <custom_label_2>Внутри каждого набора открытка!</custom_label_2>
+        <custom_label_3>В набор входит всё действительно необходимое в первые месяцы жизни малыша</custom_label_3>
+        <collectionId>22</collectionId>
+        <pickup>1</pickup>
+        <delivery>1</delivery>
+        <age unit="year">0+</age>
+        <manufacturer_warranty>1</manufacturer_warranty>
+        <store>false</store>
+        <description>Комплект 4 в 1: пластиковая бутылочка 180 мл, пустышка-вишня из натурального каучука, держатель 2 в 1, прорезыватель-браслет + открытка с пожеланием</description>
+        <sales_notes>Доставка до 7 рабочих дней в ПВЗ Я.Маркет или курьером до двери — в удобное время</sales_notes>
+      </offer>
+      <offer id="3" available="true">
+        <name>Подарочный набор в роддом 6 в 1</name>
+        <vendor>Paomma</vendor>
+        <vendorCode>T61</vendorCode>
+        <model>Набор для новорождённого Taupe 6 в 1</model>
+        <typePrefix>Набор в роддом на выписку</typePrefix>
+        <price>2590</price>
+        <oldprice>2800</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>30</categoryId>
+        <url><![CDATA[https://paomma.ru/catalog/podarochnyy-nabor-dlya-novorozhdennogo/6-v-1-taupe]]></url>
+        <picture>https://optim.tildacdn.com/tild3839-6237-4562-b033-323263343564/-/format/webp/_22.png.webp</picture>
+        <param name="Цвет">Taupe (Матовый серо-коричневый)</param>
+        <param name="Материал">Полипропилен, каучук, пищевой силикон</param>
+        <custom_label_0>Защитная упаковка из плотного переработанного картона</custom_label_0>
+        <custom_label_1>Красиво и удобно - можно дарить сразу, без дополнительных хлопот</custom_label_1>
+        <custom_label_2>Внутри каждого набора открытка!</custom_label_2>
+        <custom_label_3>В набор входит всё действительно необходимое в первые месяцы жизни малыша</custom_label_3>
+        <collectionId>33</collectionId>
+        <pickup>1</pickup>
+        <delivery>1</delivery>
+        <age unit="year">0+</age>
+        <manufacturer_warranty>1</manufacturer_warranty>
+        <store>false</store>
+        <description>Комплект 6 в 1: пластиковая бутылочка 180 мл, пустышка-вишня из натурального каучука, пустышка-вишня из медицинского силикона, контейнер для хранения пустышек и сосок, держатель 2 в 1, прорезыватель-браслет + открытка</description>
+        <sales_notes>Доставка до 7 рабочих дней в ПВЗ Я.Маркет или курьером до двери — в удобное время</sales_notes>
+      </offer>
+      <offer id="4" available="true">
+        <name>Набор подарочный для новорожденного 6 в 1</name>
+        <vendor>Paomma</vendor>
+        <vendorCode>B61</vendorCode>
+        <model>Набор в роддом на выписку Buttercream 6 в 1</model>
+        <typePrefix>Набор на рождение ребёнка</typePrefix>
+        <price>2590</price>
+        <oldprice>2800</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>40</categoryId>
+        <url><![CDATA[https://paomma.ru/catalog/podarochnyy-nabor-dlya-novorozhdennogo/6-v-1-buttercream]]></url>
+        <picture>https://optim.tildacdn.com/tild6136-3864-4366-b136-373963383433/-/format/webp/_21_1.png.webp</picture>
+        <param name="Цвет">Buttercream (Кремовый)</param>
+        <param name="Материал">Полипропилен, каучук, пищевой силикон</param>
+        <custom_label_0>Защитная упаковка из плотного переработанного картона</custom_label_0>
+        <custom_label_1>Красиво и удобно - можно дарить сразу, без дополнительных хлопот</custom_label_1>
+        <custom_label_2>Внутри каждого набора открытка!</custom_label_2>
+        <custom_label_3>В набор входит всё действительно необходимое в первые месяцы жизни малыша</custom_label_3>
+        <collectionId>44</collectionId>
+        <pickup>1</pickup>
+        <delivery>1</delivery>
+        <age unit="year">0+</age>
+        <manufacturer_warranty>1</manufacturer_warranty>
+        <store>false</store>
+        <description>Комплект 6 в 1: пластиковая бутылочка 180 мл, пустышка-вишня из натурального каучука, пустышка-вишня из медицинского силикона, контейнер для хранения пустышек и сосок, держатель 2 в 1, прорезыватель-браслет + открытка</description>
+        <sales_notes>Доставка до 7 рабочих дней в ПВЗ Я.Маркет или курьером до двери — в удобное время</sales_notes>
+      </offer>
+      <offer id="5" available="true">
+        <name>Набор подарочный для новорожденного 7 в 1</name>
+        <vendor>Paomma</vendor>
+        <vendorCode>B71</vendorCode>
+        <model>Набор в роддом на выписку Buttercream 7 в 1</model>
+        <typePrefix>Набор на выписку</typePrefix>
+        <price>2890</price>
+        <oldprice>3100</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>50</categoryId>
+        <url><![CDATA[https://paomma.ru/catalog/podarochnyy-nabor-dlya-novorozhdennogo/7-v-1-buttercream]]></url>
+        <picture>https://optim.tildacdn.com/tild6663-3334-4235-b064-633438663534/-/format/webp/_1_2.png.webp</picture>
+        <param name="Цвет">Buttercream (Кремовый)</param>
+        <param name="Материал">Полипропилен, каучук, пищевой силикон</param>
+        <custom_label_0>Защитная упаковка из плотного переработанного картона</custom_label_0>
+        <custom_label_1>Красиво и удобно - можно дарить сразу, без дополнительных хлопот</custom_label_1>
+        <custom_label_2>Внутри каждого набора открытка!</custom_label_2>
+        <custom_label_3>В набор входит всё действительно необходимое в первые месяцы жизни малыша</custom_label_3>
+        <collectionId>55</collectionId>
+        <pickup>1</pickup>
+        <delivery>1</delivery>
+        <age unit="year">0+</age>
+        <manufacturer_warranty>1</manufacturer_warranty>
+        <store>false</store>
+        <description>Комплект 7 в 1: пластиковая бутылочка 180 мл, пустышка-вишня из 100% каучука, пустышка-вишня из медицинского силикона, контейнер для пустышек и сосок, контейнер для смеси, держатель 2 в 1, прорезыватель-браслет + открытка</description>
+        <sales_notes>Доставка до 7 рабочих дней в ПВЗ Я.Маркет или курьером до двери — в удобное время</sales_notes>
+      </offer>
+      <offer id="6" available="true">
+        <name>Набор подарочный для новорожденного 7 в 1</name>
+        <vendor>Paomma</vendor>
+        <vendorCode>T71</vendorCode>
+        <model>Набор в роддом для кормления Taupe 7 в 1</model>
+        <typePrefix>Подарок на выписку</typePrefix>
+        <price>2890</price>
+        <oldprice>3100</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>60</categoryId>
+        <url><![CDATA[https://paomma.ru/catalog/podarocznye-nabory-na-rozhdenie-rebenka]]></url>
+        <picture>https://optim.tildacdn.com/tild3839-6237-4562-b033-323263343564/-/format/webp/_22.png.webp</picture>
+        <param name="Цвет">Taupe (Матовый серо-коричневый)</param>
+        <param name="Материал">Полипропилен, каучук, пищевой силикон</param>
+        <custom_label_0>Защитная упаковка из плотного переработанного картона</custom_label_0>
+        <custom_label_1>Красиво и удобно - можно дарить сразу, без дополнительных хлопот</custom_label_1>
+        <custom_label_2>Внутри каждого набора открытка!</custom_label_2>
+        <custom_label_3>В набор входит самое необходимое в первые месяцы жизни малыша</custom_label_3>
+        <collectionId>66</collectionId>
+        <pickup>1</pickup>
+        <delivery>1</delivery>
+        <age unit="year">0+</age>
+        <manufacturer_warranty>1</manufacturer_warranty>
+        <store>false</store>
+        <description>Комплект 7 в 1: пластиковая бутылочка 180 мл, пустышка-вишня из 100% каучука, пустышка-вишня из медицинского силикона, контейнер для пустышек и сосок, контейнер для смеси, держатель 2 в 1, прорезыватель-браслет + открытка</description>
+        <sales_notes>Доставка до 7 рабочих дней в ПВЗ Я.Маркет или курьером до двери — в удобное время</sales_notes>
+      </offer>
+    </offers>
+    <collections>
+      <collection id="11">
+        <name>Подарочный набор в роддом на выписку 4 в 1 Buttercream</name>
+        <url><![CDATA[https://paomma.ru/catalog/podarochnyy-nabor-dlya-novorozhdennogo/4-v-1-buttercream]]></url>
+        <picture>https://optim.tildacdn.com/tild3238-6366-4239-b564-643838613831/-/format/webp/_6.png.webp</picture>
+        <description>Комплект 4 в 1: пластиковая бутылочка 180 мл, пустышка-вишня из натурального каучука, держатель 2 в 1, прорезыватель-браслет + открытка с пожеланием</description>
+      </collection>
+      <collection id="22">
+        <name>Подарочный набор в роддом на выписку 4 в 1 Taupe</name>
+        <url><![CDATA[https://paomma.ru/catalog/podarochnyy-nabor-dlya-novorozhdennogo/4-v-1-taupe]]></url>
+        <picture>https://optim.tildacdn.com/tild3566-3765-4539-b837-656330656362/-/format/webp/_7.png.webp</picture>
+        <description>Комплект 4 в 1: пластиковая бутылочка 180 мл, пустышка-вишня из натурального каучука, держатель 2 в 1, прорезыватель-браслет + открытка с пожеланием</description>
+      </collection>
+      <collection id="33">
+        <name>Подарочный набор в роддом на выписку 6 в 1 Taupe</name>
+        <url><![CDATA[https://paomma.ru/catalog/podarochnyy-nabor-dlya-novorozhdennogo/6-v-1-taupe]]></url>
+        <picture>https://optim.tildacdn.com/tild3839-6237-4562-b033-323263343564/-/format/webp/_22.png.webp</picture>
+        <description>Комплект 6 в 1: пластиковая бутылочка 180 мл, пустышка-вишня из натурального каучука, пустышка-вишня из медицинского силикона, контейнер для хранения пустышек и сосок, держатель 2 в 1, прорезыватель-браслет + открытка</description>
+      </collection>
+      <collection id="44">
+        <name>Подарочный набор в роддом на выписку 6 в 1 Buttercream</name>
+        <url><![CDATA[https://paomma.ru/catalog/pustyshki]]></url>
+        <picture>https://optim.tildacdn.com/tild6136-3864-4366-b136-373963383433/-/format/webp/_21_1.png.webp</picture>
+        <description>Комплект 6 в 1: пластиковая бутылочка 180 мл, пустышка-вишня из натурального каучука, пустышка-вишня из медицинского силикона, контейнер для хранения пустышек и сосок, держатель 2 в 1, прорезыватель-браслет + открытка</description>
+      </collection>
+      <collection id="55">
+        <name>Подарочный набор в роддом на выписку 7 в 1 Buttercream</name>
+        <url><![CDATA[https://paomma.ru/catalog/derzhateli-dlya-pustyshek]]></url>
+        <picture>https://optim.tildacdn.com/tild6663-3334-4235-b064-633438663534/-/format/webp/_1_2.png.webp</picture>
+        <description>Комплект 7 в 1: пластиковая бутылочка 180 мл, пустышка-вишня из 100% каучука, пустышка-вишня из медицинского силикона, контейнер для пустышек и сосок, контейнер для смеси, держатель 2 в 1, прорезыватель-браслет + открытка</description>
+      </collection>
+      <collection id="66">
+        <name>Подарочный набор в роддом на выписку 7 в 1 Taupe</name>
+        <url><![CDATA[https://paomma.ru/catalog/konteyner-dlya-pustyshek]]></url>
+        <picture>https://optim.tildacdn.com/tild3839-6237-4562-b033-323263343564/-/format/webp/_22.png.webp</picture>
+        <description>Комплект 7 в 1: пластиковая бутылочка 180 мл, пустышка-вишня из 100% каучука, пустышка-вишня из медицинского силикона, контейнер для пустышек и сосок, контейнер для смеси, держатель 2 в 1, прорезыватель-браслет + открытка</description>
+      </collection>      
+    </collections>
+  </shop>
+</yml_catalog>
