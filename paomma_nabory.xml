@@ -39,7 +39,7 @@
         <collectionId>11</collectionId>
         <pickup>1</pickup>
         <delivery>1</delivery>
-        <age>0+</age>
+        <age>0</age>
         <manufacturer_warranty>1</manufacturer_warranty>
         <store>false</store>
         <description>Комплект 4 в 1: пластиковая бутылочка 180 мл, пустышка-вишня из натурального каучука, держатель 2 в 1, прорезыватель-браслет + открытка с пожеланием</description>
@@ -67,7 +67,7 @@
         <collectionId>22</collectionId>
         <pickup>1</pickup>
         <delivery>1</delivery>
-        <age>0+</age>
+        <age>0</age>
         <manufacturer_warranty>1</manufacturer_warranty>
         <store>false</store>
         <description>Комплект 4 в 1: пластиковая бутылочка 180 мл, пустышка-вишня из натурального каучука, держатель 2 в 1, прорезыватель-браслет + открытка с пожеланием</description>
@@ -95,7 +95,7 @@
         <collectionId>33</collectionId>
         <pickup>1</pickup>
         <delivery>1</delivery>
-        <age>0+</age>
+        <age>0</age>
         <manufacturer_warranty>1</manufacturer_warranty>
         <store>false</store>
         <description>Комплект 6 в 1: пластиковая бутылочка 180 мл, пустышка-вишня из натурального каучука, пустышка-вишня из медицинского силикона, контейнер для хранения пустышек и сосок, держатель 2 в 1, прорезыватель-браслет + открытка</description>
@@ -123,7 +123,7 @@
         <collectionId>44</collectionId>
         <pickup>1</pickup>
         <delivery>1</delivery>
-        <age>0+</age>
+        <age>0</age>
         <manufacturer_warranty>1</manufacturer_warranty>
         <store>false</store>
         <description>Комплект 6 в 1: пластиковая бутылочка 180 мл, пустышка-вишня из натурального каучука, пустышка-вишня из медицинского силикона, контейнер для хранения пустышек и сосок, держатель 2 в 1, прорезыватель-браслет + открытка</description>
@@ -151,7 +151,7 @@
         <collectionId>55</collectionId>
         <pickup>1</pickup>
         <delivery>1</delivery>
-        <age>0+</age>
+        <age>0</age>
         <manufacturer_warranty>1</manufacturer_warranty>
         <store>false</store>
         <description>Комплект 7 в 1: пластиковая бутылочка 180 мл, пустышка-вишня из 100% каучука, пустышка-вишня из медицинского силикона, контейнер для пустышек и сосок, контейнер для смеси, держатель 2 в 1, прорезыватель-браслет + открытка</description>
@@ -179,7 +179,7 @@
         <collectionId>66</collectionId>
         <pickup>1</pickup>
         <delivery>1</delivery>
-        <age>0+</age>
+        <age>0</age>
         <manufacturer_warranty>1</manufacturer_warranty>
         <store>false</store>
         <description>Комплект 7 в 1: пластиковая бутылочка 180 мл, пустышка-вишня из 100% каучука, пустышка-вишня из медицинского силикона, контейнер для пустышек и сосок, контейнер для смеси, держатель 2 в 1, прорезыватель-браслет + открытка</description>
@@ -226,3 +226,4 @@
     </collections>
   </shop>
 </yml_catalog>
+
