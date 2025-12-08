@@ -168,7 +168,7 @@
         <currencyId>RUB</currencyId>
         <categoryId>60</categoryId>
         <url><![CDATA[https://paomma.ru/catalog/podarocznye-nabory-na-rozhdenie-rebenka]]></url>
-        <picture>https://optim.tildacdn.com/tild3839-6237-4562-b033-323263343564/-/format/webp/_22.png.webp</picture>
+        <picture>https://static.tildacdn.com/tild3065-6562-4263-b064-353636636435/_2_2.png</picture>
         <param name="Цвет">Taupe (Матовый серо-коричневый)</param>
         <param name="Материал">Полипропилен, каучук, пищевой силикон</param>
         <custom_label_0>Защитная упаковка из плотного переработанного картона</custom_label_0>
@@ -220,10 +220,11 @@
       <collection id="66">
         <name>Подарочный набор в роддом на выписку 7 в 1 Taupe</name>
         <url><![CDATA[https://paomma.ru/catalog/konteyner-dlya-pustyshek]]></url>
-        <picture>https://optim.tildacdn.com/tild3839-6237-4562-b033-323263343564/-/format/webp/_22.png.webp</picture>
+        <picture>https://static.tildacdn.com/tild3065-6562-4263-b064-353636636435/_2_2.png</picture>
         <description>Комплект 7 в 1: пластиковая бутылочка 180 мл, пустышка-вишня из 100% каучука, пустышка-вишня из медицинского силикона, контейнер для пустышек и сосок, контейнер для смеси, держатель 2 в 1, прорезыватель-браслет + открытка</description>
       </collection>      
     </collections>
   </shop>
 </yml_catalog>
+
 
