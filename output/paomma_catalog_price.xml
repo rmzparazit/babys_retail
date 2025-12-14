@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2025-12-07 22:19">
+<yml_catalog date="2025-12-14 22:19">
   <shop>
     <name>Paomma</name>
     <company>Paomma</company>
@@ -2790,6 +2790,54 @@
         <collectionId>butylochki</collectionId>
         <description>Качественный товар для детей от бренда Paomma. Подходит с рождения.</description>
         <sales_notes>Цвет: Buttercream (Сливочный). Объём: 300 мл. Возраст: 3-6. Материал: Полипропилен. Официальный сайт Paomma.</sales_notes>
+      </offer>
+      <offer id="PT002" available="true">
+        <name>Прорезыватель-браслет Мыльные пузыри, Peach</name>
+        <vendor>Paomma</vendor>
+        <vendorCode>PT002</vendorCode>
+        <model>PT002</model>
+        <price>499</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>206682998845</categoryId>
+        <url><![CDATA[https://paomma.ru/catalog/prorezyvateli/tproduct/291377558282-prorezivatel-braslet-milnie-puziri-peach]]></url>
+        <picture>https://static.tildacdn.com/stor3864-6462-4037-b634-656530333537/96308515.png</picture>
+        <param name="Размер">Длина: 12 см</param>
+        <param name="collection">prorezyvateli</param>
+        <collectionId>prorezyvateli</collectionId>
+        <description>Качественный товар для детей от бренда Paomma. Подходит с рождения.</description>
+        <sales_notes>Официальный сайт Paomma.</sales_notes>
+      </offer>
+      <offer id="PT127" available="true">
+        <name>Прорезыватель-браслет Мыльные пузыри, Lime sorbet</name>
+        <vendor>Paomma</vendor>
+        <vendorCode>PT127</vendorCode>
+        <model>PT127</model>
+        <price>499</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>206682998845</categoryId>
+        <url><![CDATA[https://paomma.ru/catalog/prorezyvateli/tproduct/991225854862-prorezivatel-braslet-milnie-puziri-lime]]></url>
+        <picture>https://static.tildacdn.com/stor6631-3966-4234-a532-613332633733/2dd9845a552ca1712ab835ed329a37f9.jpg</picture>
+        <param name="Размер">Длина: 12 см</param>
+        <param name="collection">prorezyvateli</param>
+        <collectionId>prorezyvateli</collectionId>
+        <description>Качественный товар для детей от бренда Paomma. Подходит с рождения.</description>
+        <sales_notes>Официальный сайт Paomma.</sales_notes>
+      </offer>
+      <offer id="PT003" available="true">
+        <name>Прорезыватель-браслет Жираф, Аlmond milk&taupe</name>
+        <vendor>Paomma</vendor>
+        <vendorCode>PT003</vendorCode>
+        <model>PT003</model>
+        <price>499</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>206682998845</categoryId>
+        <url><![CDATA[https://paomma.ru/catalog/prorezyvateli/tproduct/527088408892-prorezivatel-braslet-zhiraf-almond-milka]]></url>
+        <picture>https://static.tildacdn.com/stor3437-3166-4662-a138-333266313765/37c82a33a5c71665a824820becce0fa4.jpg</picture>
+        <param name="Размер">Длина: 12 см</param>
+        <param name="collection">prorezyvateli</param>
+        <collectionId>prorezyvateli</collectionId>
+        <description>Качественный товар для детей от бренда Paomma. Подходит с рождения.</description>
+        <sales_notes>Официальный сайт Paomma.</sales_notes>
       </offer>
     </offers>
     <collections>
