@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2026-01-11 22:20">
+<yml_catalog date="2026-01-18 22:20">
   <shop>
     <name>Paomma</name>
     <company>Paomma</company>
@@ -2838,6 +2838,25 @@
         <collectionId>prorezyvateli</collectionId>
         <description>Качественный товар для детей от бренда Paomma. Подходит с рождения.</description>
         <sales_notes>Официальный сайт Paomma.</sales_notes>
+      </offer>
+      <offer id="PPL11215__2" available="true">
+        <name>Copy: Набор латексных пустышек Buttercream/light grey</name>
+        <vendor>Paomma</vendor>
+        <vendorCode>PPL11215</vendorCode>
+        <model>PPL11215</model>
+        <price>599</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>876147046474</categoryId>
+        <url><![CDATA[https://paomma.ru/catalog/pustyshki/tproduct/362394750192-copy-nabor-lateksnih-pustishek-buttercre]]></url>
+        <picture>https://static.tildacdn.com/stor3735-6666-4431-b431-663364663934/15066697.jpg</picture>
+        <param name="Цвет">Бежевый</param>
+        <param name="Размер">Длина: 9 см</param>
+        <param name="Материал">Латекс</param>
+        <param name="Возраст">18-36</param>
+        <param name="collection">pustyshki</param>
+        <collectionId>pustyshki</collectionId>
+        <description>Качественный товар для детей от бренда Paomma. Подходит с рождения.</description>
+        <sales_notes>Цвет: Бежевый. Возраст: 18-36. Материал: Латекс. Официальный сайт Paomma.</sales_notes>
       </offer>
     </offers>
     <collections>
