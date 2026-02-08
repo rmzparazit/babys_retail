@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2026-02-01 22:25">
+<yml_catalog date="2026-02-08 22:28">
   <shop>
     <name>Paomma</name>
     <company>Paomma</company>
@@ -2849,6 +2849,25 @@
         <categoryId>876147046474</categoryId>
         <url><![CDATA[https://paomma.ru/catalog/pustyshki/tproduct/362394750192-copy-nabor-lateksnih-pustishek-buttercre]]></url>
         <picture>https://static.tildacdn.com/stor3735-6666-4431-b431-663364663934/15066697.jpg</picture>
+        <param name="Цвет">Бежевый</param>
+        <param name="Размер">Длина: 9 см</param>
+        <param name="Материал">Латекс</param>
+        <param name="Возраст">18-36</param>
+        <param name="collection">pustyshki</param>
+        <collectionId>pustyshki</collectionId>
+        <description>Качественный товар для детей от бренда Paomma. Подходит с рождения.</description>
+        <sales_notes>Цвет: Бежевый. Возраст: 18-36. Материал: Латекс. Официальный сайт Paomma.</sales_notes>
+      </offer>
+      <offer id="PPL21317_" available="true">
+        <name>Набор латексных пустышек Baby blue/Navy</name>
+        <vendor>Paomma</vendor>
+        <vendorCode>PPL21317</vendorCode>
+        <model>PPL21317</model>
+        <price>599</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>876147046474</categoryId>
+        <url><![CDATA[https://paomma.ru/catalog/pustyshki/tproduct/277540154312-nabor-lateksnih-pustishek-baby-bluenavy]]></url>
+        <picture>https://static.tildacdn.com/stor6339-3933-4564-b162-663064316465/2b13494ea4ef0cc7aa93f54307a7dce6.jpg</picture>
         <param name="Цвет">Бежевый</param>
         <param name="Размер">Длина: 9 см</param>
         <param name="Материал">Латекс</param>
