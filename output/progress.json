@@ -2917,6 +2917,42 @@
             "categoryHint": "pustyshka",
             "link": "https://paomma.ru/catalog/pustyshki/tproduct/277540154312-nabor-lateksnih-pustishek-baby-bluenavy",
             "collection": "pustyshki"
+        },
+        {
+            "name": "Накладки на грудь для кормления M+L / в кейсе",
+            "price": "434",
+            "vendorCode": "SNSML",
+            "image": "https://static.tildacdn.com/stor6235-3563-4065-a164-613662383233/30b887649b12af5247162ba2b8fd01d1.jpg",
+            "additional_images": [],
+            "color": "Розовый",
+            "material": "Полипропилен",
+            "age": "6-18 мес",
+            "size": "Длина: 12 см",
+            "volume": "300 мл",
+            "composition": "",
+            "handle": "",
+            "description": "",
+            "category_hint": "",
+            "link": "https://paomma.ru/catalog/butylochki-dlya-kormleniya/tproduct/511000936492-nakladki-na-grud-dlya-kormleniya-ml-v-ke",
+            "collection": "butylochki"
+        },
+        {
+            "name": "Сменные губки для ершиков, 5+5 шт",
+            "price": "399",
+            "vendorCode": "BRS10",
+            "image": "https://static.tildacdn.com/stor6261-6136-4665-a639-643638623138/b5f538770349bd9f40d1668f798f1fe4.jpg",
+            "additional_images": [],
+            "color": "Розовый",
+            "material": "Полипропилен",
+            "age": "6-18 мес",
+            "size": "Длина: 12 см",
+            "volume": "300 мл",
+            "composition": "",
+            "handle": "",
+            "description": "",
+            "category_hint": "",
+            "link": "https://paomma.ru/catalog/butylochki-dlya-kormleniya/tproduct/574609103832-smennie-gubki-dlya-ershikov-55-sht",
+            "collection": "butylochki"
         }
     ]
 }
