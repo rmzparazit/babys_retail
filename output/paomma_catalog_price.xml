@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2026-03-29 22:33">
+<yml_catalog date="2026-04-05 22:31">
   <shop>
     <name>Paomma</name>
     <company>Paomma</company>
@@ -2935,6 +2935,26 @@
         <collectionId>butylochki</collectionId>
         <description>Качественный товар для детей от бренда Paomma. Подходит с рождения.</description>
         <sales_notes>Цвет: Розовый. Возраст: 3-6. Материал: Полипропилен. Официальный сайт Paomma.</sales_notes>
+      </offer>
+      <offer id="SNSML__2" available="true">
+        <name>Контейнеры для сбора грудного молока в кейсе , 2шт, 35 мл</name>
+        <vendor>Paomma</vendor>
+        <vendorCode>SNSML</vendorCode>
+        <model>SNSML</model>
+        <price>1</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>876147046474</categoryId>
+        <url><![CDATA[https://paomma.ru/catalog/butylochki-dlya-kormleniya/tproduct/825421884362-konteineri-dlya-sbora-grudnogo-moloka-v]]></url>
+        <picture>https://static.tildacdn.com/stor3265-3038-4138-a239-303463623833/817dadc1cb12c90f504992da5f14839b.jpg</picture>
+        <param name="Цвет">Розовый</param>
+        <param name="Размер">Длина: 12 см</param>
+        <param name="Объём">300 мл</param>
+        <param name="Материал">Полипропилен</param>
+        <param name="Возраст">6-18 мес</param>
+        <param name="collection">butylochki</param>
+        <collectionId>butylochki</collectionId>
+        <description>Качественный товар для детей от бренда Paomma. Подходит с рождения.</description>
+        <sales_notes>Цвет: Розовый. Объём: 300 мл. Возраст: 6-18 мес. Материал: Полипропилен. Официальный сайт Paomma.</sales_notes>
       </offer>
     </offers>
     <collections>
