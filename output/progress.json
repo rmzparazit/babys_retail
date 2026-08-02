@@ -2989,6 +2989,44 @@
             "category_hint": "",
             "link": "https://paomma.ru/catalog/butylochki-dlya-kormleniya/tproduct/825421884362-konteineri-dlya-sbora-grudnogo-moloka-v",
             "collection": "butylochki"
+        },
+        {
+            "name": "Молокоотсос электрический беспроводной 3 в 1",
+            "price": "2400",
+            "vendorCode": "BPP118",
+            "image": "https://static.tildacdn.com/stor3063-6334-4465-b862-653266303362/56547307.jpg",
+            "additional_images": [],
+            "color": "Не указан",
+            "material": "",
+            "age": "",
+            "size": "",
+            "volume": "",
+            "composition": "",
+            "handle": "",
+            "description": "Отдельная точка (магазин, аптека, салон)",
+            "category_hint": "",
+            "categoryHint": "molokootsos",
+            "link": "https://paomma.ru/catalog/molokootsos/molokootsos-elektricheskiy-besprovodnoy-3-v-1",
+            "collection": "molokootsosy"
+        },
+        {
+            "name": "Молокоотсос бионический Paomma свободные руки",
+            "price": "4400",
+            "vendorCode": "PAO_5B11EC",
+            "image": "https://static.tildacdn.com/stor6633-6266-4964-a565-373032643836/dd0d94b01160e52476e679970a818ef2.jpg",
+            "additional_images": [],
+            "color": "Не указан",
+            "material": "",
+            "age": "",
+            "size": "",
+            "volume": "",
+            "composition": "",
+            "handle": "",
+            "description": "Отдельная точка (магазин, аптека, салон)",
+            "category_hint": "",
+            "categoryHint": "molokootsos",
+            "link": "https://paomma.ru/catalog/bionicheskiy-elektricheskiy-molokootsos-svobodnye-ruki/molokootsos-bionicheskiy",
+            "collection": "molokootsosy"
         }
     ]
 }

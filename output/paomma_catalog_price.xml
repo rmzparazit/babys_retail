@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2026-07-26 22:58">
+<yml_catalog date="2026-08-02 22:56">
   <shop>
     <name>Paomma</name>
     <company>Paomma</company>
@@ -2955,6 +2955,36 @@
         <collectionId>butylochki</collectionId>
         <description>Качественный товар для детей от бренда Paomma. Подходит с рождения.</description>
         <sales_notes>Цвет: Розовый. Объём: 300 мл. Возраст: 6-18 мес. Материал: Полипропилен. Официальный сайт Paomma.</sales_notes>
+      </offer>
+      <offer id="BPP118" available="true">
+        <name>Молокоотсос электрический беспроводной 3 в 1</name>
+        <vendor>Paomma</vendor>
+        <vendorCode>BPP118</vendorCode>
+        <model>BPP118</model>
+        <price>2400</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>918219204990</categoryId>
+        <url><![CDATA[https://paomma.ru/catalog/molokootsos/molokootsos-elektricheskiy-besprovodnoy-3-v-1]]></url>
+        <picture>https://static.tildacdn.com/stor3063-6334-4465-b862-653266303362/56547307.jpg</picture>
+        <param name="collection">molokootsosy</param>
+        <collectionId>molokootsosy</collectionId>
+        <description>Отдельная точка (магазин, аптека, салон).</description>
+        <sales_notes>Официальный сайт Paomma.</sales_notes>
+      </offer>
+      <offer id="PAO_5B11EC" available="true">
+        <name>Молокоотсос бионический Paomma свободные руки</name>
+        <vendor>Paomma</vendor>
+        <vendorCode>PAO_5B11EC</vendorCode>
+        <model>PAO_5B11EC</model>
+        <price>4400</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>918219204990</categoryId>
+        <url><![CDATA[https://paomma.ru/catalog/bionicheskiy-elektricheskiy-molokootsos-svobodnye-ruki/molokootsos-bionicheskiy]]></url>
+        <picture>https://static.tildacdn.com/stor6633-6266-4964-a565-373032643836/dd0d94b01160e52476e679970a818ef2.jpg</picture>
+        <param name="collection">molokootsosy</param>
+        <collectionId>molokootsosy</collectionId>
+        <description>Отдельная точка (магазин, аптека, салон).</description>
+        <sales_notes>Официальный сайт Paomma.</sales_notes>
       </offer>
     </offers>
     <collections>
